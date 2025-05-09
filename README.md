@@ -1,2 +1,2 @@
-# CSharp-4.Proje
+# C#-4.Proje
 Veri Türleri ve Değişkenler2
